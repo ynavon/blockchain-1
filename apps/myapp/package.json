@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "blockchain app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ynavon/blockchain.git"
+  },
+  "author": "yael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ynavon/blockchain/issues"
+  },
+  "homepage": "https://github.com/ynavon/blockchain#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
