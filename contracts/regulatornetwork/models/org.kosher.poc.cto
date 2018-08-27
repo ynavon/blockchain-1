@@ -28,10 +28,3 @@ participant REGULATOR identified by REGULATORId
   o String REGULATORName
   o String REGULATORaddress
 }
-
-participant Holder identified by HolderId {
-    o String HolderId /*is the participant Id*/
-    o String HolderName
-    o HolderType HolderType
-    o String address
-  }
