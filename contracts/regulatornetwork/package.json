@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "description": "demo",
   "scripts": {
-    "prepublish": "mkdirp ./dist && composer archive create --sourceType dir --sourceName . -a ./dist/regulatornetwork.bna",
+    "prepublish": "mkdirp ./dist && composer archive create --sourceType dir --sourceName . -a ./dist/regulatornetwork.bna"
 
   },
   "keywords": [
